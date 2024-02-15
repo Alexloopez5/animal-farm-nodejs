@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            Alexloopez5/animal-farm-nodejs:latest
+            alexloopez5/animal-farm-nodejs:latest
             ghcr.io/alexloopez5/animal-farm-nodejs:latest
