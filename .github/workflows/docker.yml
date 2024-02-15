@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: | #
             Alexloopez5/animal-farm-nodejs:latest
-            ghcr.io/Alexloopez5/animal-farm-nodejs:latest
+            ghcr.io/alexloopez5/animal-farm-nodejs:latest
